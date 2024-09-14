@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iblebuken.github.io/sitemap.html.gz
+Sitemap: https://iblebuken.github.io/app/sitemap.html.gz
+Sitemap: https://iblebuken.github.io/assets/sitemap.html.gz
+Sitemap: https://iblebuken.github.io/css/sitemap.html.gz
+Sitemap: https://iblebuken.github.io/includes/sitemap.html.gz
+Sitemap: https://iblebuken.github.io/item/sitemap.html.gz
+Sitemap: https://iblebuken.github.io/src/sitemap.html.gz
